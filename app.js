@@ -1,1 +1,3 @@
-console.log('this is app.js')
+for (let i = 0; i < 10; i++) {
+  console.log(i);
+}
